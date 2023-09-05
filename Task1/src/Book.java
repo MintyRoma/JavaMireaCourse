@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Book {
 
-    ArrayList<String> textPages = new ArrayList<String>();
+    private ArrayList<String> textPages = new ArrayList<String>();
 
     private String title;
 
